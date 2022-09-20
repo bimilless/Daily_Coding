@@ -1,9 +1,3 @@
-package com.codestates.coplit;
-import java.util.*;
-
-public class Daily1 {
-    public HashMap<String, String> transformFirstAndLast(String[] arr) {
-        // TODO:
         // 빈 배열을 입력받는 경우, null 리턴
         if (arr.length == 0) return null;
         // 결과를 받을 HashMap 타입 생성
