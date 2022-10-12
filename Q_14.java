@@ -20,6 +20,4 @@ public class Q_14 {
         }
         return true;
     }
-
-
 }
